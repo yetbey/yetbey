@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Merhaba, Ben Yunus Emre Tüncer!
 
-<!--
-**yetbey/yetbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Elektrik-Elektronik Mühendisliği öğrencisiyim ve mobil uygulama geliştirme tutkunuyum.
+🚀 Özellikle Flutter ile modern, ölçeklenebilir ve performans odaklı uygulamalar geliştiriyorum.
+🌱 Şu anda Clean Architecture, Riverpod ve Supabase teknolojileri üzerinde uzmanlaşıyorum.
 
-Here are some ideas to get you started:
+🛠️ Teknoloji & Araçlar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Öne Çıkan Projem
+
+📱 YET Connect - Modern Sosyal Medya Uygulaması
+
+Geliştirdiğim en kapsamlı mobil uygulama projesi. Offline-first mimarisi ile internetsiz çalışabilen, gerçek zamanlı mesajlaşma ve zengin medya akışı sunan bir sosyal platform.
+
+Mimari: Clean Architecture & Feature-First
+
+State Management: Riverpod
+
+Backend: Supabase
+
+Özellikler: Anlık Mesajlaşma, Resim/Video Akışı, OTA Güncellemeleri.
+
+👉 Projeyi İncele & Kodlara Göz At
+
+📫 İletişim
+
+💼 https://www.linkedin.com/in/yunus-emre-t%C3%BCncer-a843071aa/
+
+📧 yetbey01@gmail.com
